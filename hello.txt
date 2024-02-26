@@ -1,1 +1,3 @@
-hello
+hello and this
+this is try other
+尝试学习git后的第一次上传
